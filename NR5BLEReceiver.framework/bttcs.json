@@ -46,6 +46,7 @@
     "network": "－",
     "count": 10,
     "note": "無法安裝樹太多，改到7",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -60,7 +61,7 @@
   },
   {
     "macaddr": "",
-    "active": true,
+    "active": false,
     "place": "VD-N5-N-54-L-蘇澳-海山西路-4",
     "ip": "10.15.131.26",
     "host": "坪控中心FTTB",
@@ -105,6 +106,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -164,6 +166,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -178,10 +181,10 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "VD-N5-N-54-L-蘇澳-海山西路-3",
-    "ip": "10.15.131.12",
-    "host": "坪控中心FTTB",
+    "ip": "10.16.146.217",
+    "host": "蘇澳機房",
     "model": "HD-310",
     "created_at": "2018-07-04T21:47:58.021Z",
     "locationOffsets": [
@@ -220,9 +223,10 @@
       "-1"
     ],
     "judgment": false,
-    "network": "FTTB空埠",
+    "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -237,10 +241,10 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "VD-N5-N-54-L-蘇澳-海山西路-2.5",
-    "ip": "10.15.131.2",
-    "host": "坪控中心FTTB",
+    "ip": "10.16.146.216",
+    "host": "蘇澳機房",
     "model": "HD-310",
     "created_at": "2018-07-04T21:47:58.299Z",
     "locationOffsets": [
@@ -279,9 +283,10 @@
       "-1"
     ],
     "judgment": false,
-    "network": "FTTB空埠",
+    "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -341,6 +346,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -400,6 +406,7 @@
     "network": "－",
     "count": 10,
     "note": "已於1階安裝流水號1的設備；改至128_1新的點位",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -459,6 +466,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -518,6 +526,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "3階移到2階執行",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -577,6 +586,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -636,6 +646,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "1/18單核連不進去",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -695,6 +706,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -754,6 +766,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -813,6 +826,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -872,6 +886,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -931,6 +946,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -990,6 +1006,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CCTV-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -1049,6 +1066,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1108,6 +1126,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1167,6 +1186,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -1226,6 +1246,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1285,6 +1306,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -1344,6 +1366,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1403,6 +1426,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -1462,6 +1486,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -1521,6 +1546,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -1580,6 +1606,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -1639,6 +1666,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -1698,6 +1726,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-C1",
     "phoneNumber": "",
     "coordinate": {
@@ -1757,6 +1786,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1816,6 +1846,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1875,6 +1906,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -1934,6 +1966,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -1993,6 +2026,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -2052,6 +2086,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -2111,6 +2146,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -2170,6 +2206,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -2229,6 +2266,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -2288,6 +2326,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -2347,6 +2386,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-C1",
     "phoneNumber": "",
     "coordinate": {
@@ -2406,6 +2446,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -2465,6 +2506,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -2524,6 +2566,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -2583,6 +2626,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CCTV-B2",
     "phoneNumber": "",
     "coordinate": {
@@ -2642,6 +2686,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -2701,6 +2746,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -2760,6 +2806,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -2819,6 +2866,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905315980",
     "coordinate": {
@@ -2878,6 +2926,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905316593",
     "coordinate": {
@@ -2937,6 +2986,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -2996,6 +3046,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905316653",
     "coordinate": {
@@ -3055,6 +3106,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -3115,6 +3167,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -3174,6 +3227,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905316680",
     "coordinate": {
@@ -3233,6 +3287,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -3292,6 +3347,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905317209",
     "coordinate": {
@@ -3351,6 +3407,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -3410,6 +3467,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-B1",
     "phoneNumber": "",
     "coordinate": {
@@ -3469,6 +3527,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905318571",
     "coordinate": {
@@ -3528,6 +3587,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905315907",
     "coordinate": {
@@ -3587,6 +3647,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -3646,6 +3707,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-M1",
     "phoneNumber": "",
     "coordinate": {
@@ -3705,6 +3767,7 @@
     "network": "E/O",
     "count": 20,
     "note": "沒跳線+接電源",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -3764,6 +3827,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -3823,6 +3887,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -3882,6 +3947,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -3941,6 +4007,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4000,6 +4067,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4059,6 +4127,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4118,6 +4187,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4177,6 +4247,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4236,6 +4307,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4295,6 +4367,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4354,6 +4427,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -4413,6 +4487,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905312891",
     "coordinate": {
@@ -4472,6 +4547,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -4532,6 +4608,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905319023",
     "coordinate": {
@@ -4591,6 +4668,7 @@
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CCTV-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -4650,6 +4728,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4709,6 +4788,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4768,6 +4848,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -4827,6 +4908,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-D1U",
     "phoneNumber": "",
     "coordinate": {
@@ -4886,6 +4968,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-D1U",
     "phoneNumber": "",
     "coordinate": {
@@ -4945,6 +5028,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -5004,6 +5088,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -5063,6 +5148,7 @@
     "network": "4G",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905313215",
     "coordinate": {
@@ -5122,6 +5208,7 @@
     "network": "－",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -5181,6 +5268,7 @@
     "network": "FTTB空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -5240,6 +5328,7 @@
     "network": "FTTB空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "",
     "coordinate": {
@@ -5299,6 +5388,7 @@
     "network": "4G",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905318688",
     "coordinate": {
@@ -5358,6 +5448,7 @@
     "network": "4G",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905318751",
     "coordinate": {
@@ -5417,6 +5508,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "傳輸方式為ODS",
+    "heavyMessages": true,
     "struct": "CMS-B1U",
     "phoneNumber": "",
     "coordinate": {
@@ -5476,6 +5568,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-D1U",
     "phoneNumber": "",
     "coordinate": {
@@ -5535,6 +5628,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -5594,6 +5688,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -5653,6 +5748,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -5712,6 +5808,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-E1U",
     "phoneNumber": "",
     "coordinate": {
@@ -5771,6 +5868,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -5830,6 +5928,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -5889,6 +5988,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -5948,6 +6048,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6007,6 +6108,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6066,6 +6168,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6125,6 +6228,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6184,6 +6288,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6243,6 +6348,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6302,6 +6408,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -6361,6 +6468,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -6382,6 +6490,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -6449,6 +6558,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CCTV-B1U",
     "phoneNumber": "",
     "coordinate": {
@@ -6508,6 +6618,7 @@
     "network": "E/O",
     "count": 20,
     "note": "3階移到2階執行，被工警趕下來，未測訊號，EO。",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -6529,6 +6640,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -6596,6 +6708,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CCTV-B2",
     "phoneNumber": "",
     "coordinate": {
@@ -6655,6 +6768,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -6676,6 +6790,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -6743,6 +6858,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD-B1U",
     "phoneNumber": "",
     "coordinate": {
@@ -6802,6 +6918,7 @@
     "network": "E/O",
     "count": 20,
     "note": "3階移到2階執行",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -6823,6 +6940,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -6890,6 +7008,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905313216",
     "coordinate": {
@@ -6949,6 +7068,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905318970",
     "coordinate": {
@@ -7008,6 +7128,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905315581",
     "coordinate": {
@@ -7029,6 +7150,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7097,6 +7219,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905319012",
     "coordinate": {
@@ -7156,6 +7279,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905315652",
     "coordinate": {
@@ -7177,6 +7301,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7206,6 +7331,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7274,6 +7400,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905315739",
     "coordinate": {
@@ -7295,6 +7422,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7363,6 +7491,7 @@
     "network": "4G",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905315975",
     "coordinate": {
@@ -7384,6 +7513,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7413,6 +7543,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7442,6 +7573,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7471,6 +7603,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7500,6 +7633,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7529,6 +7663,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7558,6 +7693,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7587,6 +7723,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7616,6 +7753,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7645,6 +7783,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7674,6 +7813,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7703,6 +7843,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7732,6 +7873,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7761,6 +7903,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7790,6 +7933,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7819,6 +7963,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7848,6 +7993,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7877,6 +8023,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -7943,6 +8090,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -8002,6 +8150,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "RGS",
     "phoneNumber": "",
     "coordinate": {
@@ -8023,6 +8172,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -8089,6 +8239,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -8148,6 +8299,7 @@
     "network": "E/O",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "RMS",
     "phoneNumber": "",
     "coordinate": {
@@ -8206,6 +8358,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -8265,6 +8418,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS",
     "phoneNumber": "",
     "coordinate": {
@@ -8323,6 +8477,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -8337,7 +8492,7 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "RMS-N5-N-30-I-SN-1-頭城",
     "ip": "10.16.126.217",
     "host": "頭城機房光SW",
@@ -8382,6 +8537,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "宜4匝道北上方向 (砂港路口進入)",
+    "heavyMessages": true,
     "struct": "RMS-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -8441,6 +8597,7 @@
     "network": "ODS空埠",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -8455,7 +8612,7 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "CMS-N5-N-30-L-頭城-191甲-0.5",
     "ip": "10.16.126.219",
     "host": "頭城機房光SW",
@@ -8500,6 +8657,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "191縣道與玉石路交叉口附近裝Vd桿",
+    "heavyMessages": true,
     "struct": "CMS-C1",
     "phoneNumber": "",
     "coordinate": {
@@ -8514,7 +8672,7 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "eTag-N5-N-30-L-頭城-191甲-1",
     "ip": "10.16.126.220",
     "host": "頭城機房光SW",
@@ -8559,6 +8717,7 @@
     "network": "ODS空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "",
     "coordinate": {
@@ -8573,9 +8732,9 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "VD-N5-N-30-L-頭城-興農路-1.5",
-    "ip": "10.15.132.121",
+    "ip": "10.15.132.156",
     "host": "坪控中心FTTB",
     "model": "",
     "created_at": "2018-07-04T21:47:58.331Z",
@@ -8618,6 +8777,7 @@
     "network": "4G",
     "count": 10,
     "note": "興農路與興農路291巷附近 / 7LY198T233734",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905228271",
     "coordinate": {
@@ -8632,7 +8792,7 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "CMS-N5-N-30-L-頭城-興農路-2",
     "ip": "10.15.132.122",
     "host": "坪控中心FTTB",
@@ -8671,12 +8831,15 @@
     ],
     "name": "BT-N5-N-30-L-頭城-興農路-2",
     "azimuth": [
-      "110"
+      20,
+      200,
+      110
     ],
     "judgment": true,
     "network": "4G",
     "count": 10,
     "note": "礁溪鄉農會-供銷部路口 cms / 7LY198T233745",
+    "heavyMessages": true,
     "struct": "CMS-C1",
     "phoneNumber": "0905228274",
     "coordinate": {
@@ -8691,13 +8854,14 @@
   },
   {
     "coordinate": {
-      "lat": 24.819976,
-      "lng": 121.771929
+      "lat": 24.820233,
+      "lng": 121.771171
     },
     "count": 10,
     "description": "",
     "note": "",
-    "active": false,
+    "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -8720,7 +8884,7 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "VD-N5-N-30-L-頭城-大塭路-1.5",
     "ip": "10.15.132.123",
     "host": "坪控中心FTTB",
@@ -8765,6 +8929,7 @@
     "network": "4G",
     "count": 10,
     "note": "興農路與興農路322巷入口 / 7LY198T233756",
+    "heavyMessages": true,
     "struct": "VD-A2",
     "phoneNumber": "0905228284",
     "coordinate": {
@@ -8779,7 +8944,7 @@
   },
   {
     "macaddr": "",
-    "active": false,
+    "active": true,
     "place": "CMS-N5-N-30-L-頭城-大塭路-2",
     "ip": "10.15.132.124",
     "host": "坪控中心FTTB",
@@ -8824,6 +8989,7 @@
     "network": "4G",
     "count": 10,
     "note": "興農路與玉石路交叉口附近排水溝路口 / 7LY198T233767",
+    "heavyMessages": true,
     "struct": "CMS-C1",
     "phoneNumber": "0905228287",
     "coordinate": {
@@ -8838,13 +9004,14 @@
   },
   {
     "coordinate": {
-      "lat": 24.816671,
-      "lng": 121.792363
+      "lat": 24.844847,
+      "lng": 121.807496
     },
     "count": 10,
     "description": "",
     "note": "",
-    "active": false,
+    "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -8852,7 +9019,7 @@
     "locationOffsets": [],
     "created_at": "2018-07-04T21:47:58.335Z",
     "type": "btg",
-    "name": "BTG-N5-N-30-L-頭城-大塭路-2",
+    "name": "BTG-N5-N-30-L-頭城-191甲-5",
     "place": "地方道路設備",
     "struct": "-",
     "network": "-",
@@ -8911,6 +9078,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -8970,6 +9138,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "VD",
     "phoneNumber": "",
     "coordinate": {
@@ -9028,6 +9197,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9086,6 +9256,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9144,6 +9315,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9202,6 +9374,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9260,6 +9433,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9318,6 +9492,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9377,6 +9552,7 @@
     "network": "E/O",
     "count": 10,
     "note": "過坪林",
+    "heavyMessages": true,
     "struct": "RMS",
     "phoneNumber": "",
     "coordinate": {
@@ -9435,6 +9611,7 @@
     "network": "-",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "-",
     "phoneNumber": "",
     "coordinate": {
@@ -9494,6 +9671,7 @@
     "network": "E/O",
     "count": 10,
     "note": "",
+    "heavyMessages": true,
     "struct": "RMS",
     "phoneNumber": "",
     "coordinate": {
@@ -9553,6 +9731,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -9574,6 +9753,7 @@
     "description": "",
     "note": "",
     "active": true,
+    "heavyMessages": true,
     "azimuth": [
       -1
     ],
@@ -9640,6 +9820,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "0905319026",
     "coordinate": {
@@ -9699,6 +9880,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -9758,6 +9940,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -9817,6 +10000,7 @@
     "network": "E/O",
     "count": 20,
     "note": "擴充提前安裝",
+    "heavyMessages": true,
     "struct": "RMS",
     "phoneNumber": "",
     "coordinate": {
@@ -9876,6 +10060,7 @@
     "network": "E/O",
     "count": 20,
     "note": "擴充提前安裝",
+    "heavyMessages": true,
     "struct": "RMS",
     "phoneNumber": "",
     "coordinate": {
@@ -9935,6 +10120,7 @@
     "network": "E/O",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "",
     "phoneNumber": "",
     "coordinate": {
@@ -9991,6 +10177,7 @@
     "network": "4G",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS",
     "phoneNumber": "0912196132",
     "coordinate": {
@@ -10004,7 +10191,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.131.202",
     "host": "坪控中心VPN",
@@ -10019,24 +10206,24 @@
         },
         "domain": "N",
         "fmileAge": 30300,
-        "created_at": "2018-06-28T01:04:19.669Z",
+        "created_at": "2018-06-28T01:04:19.675Z",
         "name": "頭城交流道_北上",
         "offset": 3000,
-        "origin_id": 80010,
+        "origin_id": 80012,
         "icType": {
           "_id": 0,
           "name": "一般交流道",
           "id": 0
         },
         "tmileAge": 30300,
-        "_id": 2363,
+        "_id": 2365,
         "type": {
           "_id": 4,
           "name": "平面路段-上匝道",
           "id": 4
         },
-        "id": 2363,
-        "description": "頭城-台9-礁溪-191-北向",
+        "id": 2365,
+        "description": "頭城-台2庚-北向",
         "direction": 1
       }
     ],
@@ -10044,10 +10231,11 @@
     "azimuth": [
       "244"
     ],
-    "judgment": true,
+    "judgment": false,
     "network": "FTTB空埠",
     "count": 20,
     "note": "",
+    "heavyMessages": true,
     "struct": "CMS-B1",
     "coordinate": {
       "lat": 24.846696,
@@ -10060,7 +10248,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.132.126",
     "host": "坪控中心VPN",
@@ -10100,10 +10288,11 @@
     "azimuth": [
       "196"
     ],
-    "judgment": true,
+    "judgment": false,
     "network": "4G",
     "count": 10,
     "note": "E14標鋼構施作/申請台電包燈 / 7LY198T233778",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905223306",
     "coordinate": {
@@ -10117,7 +10306,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.132.127",
     "host": "坪控中心VPN",
@@ -10161,6 +10350,7 @@
     "network": "4G",
     "count": 10,
     "note": "E14標鋼構施作/申請台電包燈 / 7LY198T233789",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905223307",
     "coordinate": {
@@ -10174,7 +10364,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.132.128",
     "host": "坪控中心VPN",
@@ -10216,10 +10406,11 @@
       "200",
       "19"
     ],
-    "judgment": true,
+    "judgment": false,
     "network": "4G",
     "count": 10,
     "note": "E14標鋼構施作/申請台電包燈 / 7LY198T233565",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905223989",
     "coordinate": {
@@ -10233,7 +10424,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.16.126.222",
     "host": "頭城機房",
@@ -10273,10 +10464,11 @@
     "azimuth": [
       "352"
     ],
-    "judgment": true,
+    "judgment": false,
     "network": "E/O",
     "count": 20,
     "note": "既設交控電力",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "coordinate": {
       "lat": 24.810579,
@@ -10289,7 +10481,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.132.129",
     "host": "坪控中心VPN",
@@ -10306,7 +10498,7 @@
         "fmileAge": 30300,
         "created_at": "2018-06-28T01:04:19.669Z",
         "name": "頭城交流道_北上",
-        "offset": 3500,
+        "offset": 3610,
         "origin_id": 80010,
         "icType": {
           "_id": 0,
@@ -10333,6 +10525,7 @@
     "network": "4G",
     "count": 10,
     "note": "E14標鋼構施作/申請台電包燈 / 7LY198T233576",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905223990",
     "coordinate": {
@@ -10346,7 +10539,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.132.130",
     "host": "坪控中心VPN",
@@ -10363,7 +10556,7 @@
         "fmileAge": 30300,
         "created_at": "2018-06-28T01:04:19.669Z",
         "name": "頭城交流道_北上",
-        "offset": 4000,
+        "offset": 4800,
         "origin_id": 80010,
         "icType": {
           "_id": 0,
@@ -10386,10 +10579,11 @@
     "azimuth": [
       "124"
     ],
-    "judgment": true,
+    "judgment": false,
     "network": "4G",
     "count": 10,
     "note": "E14標鋼構施作/申請台電包燈/  7LY198T233587",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905223994",
     "coordinate": {
@@ -10403,7 +10597,7 @@
     "description": ""
   },
   {
-    "active": false,
+    "active": true,
     "place": "頭城交流道",
     "ip": "10.15.132.131",
     "host": "坪控中心VPN",
@@ -10443,15 +10637,16 @@
     "azimuth": [
       "20"
     ],
-    "judgment": true,
+    "judgment": false,
     "network": "4G",
     "count": 20,
     "note": "E14標鋼構施作 / 7LY198T233598",
+    "heavyMessages": true,
     "struct": "ETAG-A1",
     "phoneNumber": "0905223998",
     "coordinate": {
-      "lat": 24.807931,
-      "lng": 121.766678
+      "lat": 24.807163,
+      "lng": 121.766371
     },
     "_id": 196,
     "type": "bt",
